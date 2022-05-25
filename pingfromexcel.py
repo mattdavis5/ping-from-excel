@@ -111,4 +111,4 @@ with open(logLocation, 'a') as f:
     f.write("\n\n\nSummary:\n" + str(pingSuccessCount) + " hosts are reachable")
     f.write("\n" + str(pingSuccessRatio) + "% of hosts are reachable")
 
-print("\nPing test is complete. Please review the log file for detailed ping results, and Excel file for text modifications. \nHosts that are pingable are in standard green text, unreachable hosts are in italic red text in the Excel fil.")
+print("\nPing test is complete. Please review the log file for detailed ping results, and Excel file for text modifications. \nHosts that are pingable are in standard green text, unreachable hosts are in italic red text in the Excel file.")
