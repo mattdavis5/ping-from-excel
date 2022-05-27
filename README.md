@@ -36,5 +36,5 @@ ping-from-excel.py requires the user to input the following:
 
 ping-from-excel.py will output:
    
-* A text file with each ping test's details as well as a final summary of how many hosts/IPs are pingable. 
-* Modify the Excel file so that the hosts/IPs that are reachable will be in green text, and those unreachable will be in italicized red text.
+* A text file with each ping test's details as well as a final summary of how many hosts/IPs are pingable
+* Modify the Excel file so that the hosts/IPs that are reachable will be in green text, and those unreachable will be in italicized red text
